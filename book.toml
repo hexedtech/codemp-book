@@ -1,0 +1,6 @@
+[book]
+authors = ["hexedtech"]
+language = "en"
+multilingual = false
+src = "src"
+title = "codemp"
